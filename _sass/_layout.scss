@@ -1,0 +1,51 @@
+.site-header {
+    margin: auto;
+    margin-top: 10vh;
+    float: none;
+    text-align: center;
+
+    h1 {
+        font-family: 'Abril Fatface', cursive;
+        font-size: 3em;
+    }
+
+    ul {
+        margin-left: 0;
+        margin-bottom: 1vh;
+    }
+
+    li {
+        margin: auto;
+        float: none;
+        display: inline-block;
+
+        a {
+            color: grey;
+        }
+        a:hover {
+            background-color: #fff;
+            color: indianred;
+        }
+    }
+
+    hr {
+        margin-bottom: 1vh;
+    }
+}
+
+.about {
+    margin: auto;
+    margin-top: 4vh;
+    float: none;
+    font-size: 1.2em;
+}
+
+.footer {
+    margin: auto;
+    margin-top: 3vh;
+    float: none;
+    text-align: center;
+    a {
+        padding: 1vw;
+    }
+}
