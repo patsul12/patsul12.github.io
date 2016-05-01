@@ -17,5 +17,5 @@ They have developed products for major brands across the U.S in all sorts of dif
 
 I'll be working with three other talented Epicodus students to build out a full fledged application following agile development methodologies. We will spend the next five weeks going through all the steps of the product development lifecycle and, hopefully, will walk way in the end with experience developing a real world application.
 
-I can't wait to start the step of my transition into software development. 
+I can't wait to start the next step of my transition into software development. 
 
