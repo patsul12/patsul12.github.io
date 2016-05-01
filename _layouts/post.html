@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="container">
+      {% include post_header.html %}
+      <a href="/blog">Back to blog</a>
+      {{ author }}
+      {{ content }} 
+      {% include footer.html %}
+    </div>
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+    <script src="../assets/typed.min.js"></script>
+    <script src="../assets/scripts.js"></script>
+  </body>
+
+</html>
