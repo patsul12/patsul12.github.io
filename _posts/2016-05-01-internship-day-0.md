@@ -2,6 +2,7 @@
 excerpt_separator: <!--excerpt-->
 layout: post
 author: Patrick Sullivan
+comments: true
 ---
 
 ## Day 0
