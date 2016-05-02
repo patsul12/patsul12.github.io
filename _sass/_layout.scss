@@ -50,3 +50,11 @@
         padding: 1vw;
     }
 }
+
+.particles {
+  background: -webkit-canvas(particles) !important;
+}
+
+#canvas {
+  position: absolute;
+}
