@@ -6,13 +6,11 @@ function draw() {
   canvas.height = height;
   canvas.width  = width;
 
+  document.addEventListener('mousemove', function(e) {
+    mouse.x = e.clientX || e.pageX;
+    mouse.y = e.clientY || e.pageY
+  }, false);
   var ctx = canvas.getContext('2d');
-  // draw circle
-  ctx.beginPath();
-  ctx.fillStyle="black";
-  ctx.arc(100,20,10,0, Math.PI*2, true);
-  ctx.closePath();
-  ctx.fill();
 }
 
 $(function(){
